@@ -1,5 +1,5 @@
 # dataScraper
-Coded by Bhavyansh Shivakoti ( check out my YT channel, BTG Tech and drop a sub lol)
+Coded by Bhavyansh Shivakoti ( check out my YT channel, oddstufs and drop a sub lol)
 if this helped you, make sure to share this with your friends
 ONTO THE CONFIG WE GOOO
 
