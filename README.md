@@ -1,7 +1,7 @@
 # dataScraper
 Coded by Bhavyansh Shivakoti ( check out my YT channel, oddstufs and drop a sub lol)
 if this helped you, make sure to share this with your friends
-ONTO THE CONFIG WE GOOO
+How to config:
 
 
 1) make sure to go to line #7 and change the file path to where the folder is stored 
